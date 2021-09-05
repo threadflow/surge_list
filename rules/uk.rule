@@ -1,0 +1,12 @@
+# AWS
+AND, ((GEOIP,UK),(DOMAIN-KEYWORD,amazon))
+AND, ((GEOIP,DE),(DOMAIN-KEYWORD,amazon))
+AND, ((GEOIP,IE),(DOMAIN-KEYWORD,amazon)) // Ireland
+AND, ((GEOIP,FR),(DOMAIN-KEYWORD,amazon)) 
+AND, ((GEOIP,SE),(DOMAIN-KEYWORD,amazon)) // Sweden
+
+
+
+#
+AND, ((GEOIP,DE),(DOMAIN-SUFFIX,softaculous.com))
+AND, ((GEOIP,FR),(DOMAIN-SUFFIX,softaculous.com))

@@ -1,0 +1,35 @@
+# akamaized.net
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,akamaized.net))
+
+# AWS
+AND, ((GEOIP,US),(DOMAIN-KEYWORD,amazon))
+
+# bintray
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,bintray.com))
+
+# cloudfront
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,cloudfront.net))
+
+# github
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,github.com))
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,githubusercontent.com))
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,githubassets.com))
+AND, ((GEOIP,US),(DOMAIN-KEYWORD,gitbook))
+
+#
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,hashicorp.com))
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,vagrantcloud.com))
+
+#
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,softaculous.com))
+
+
+
+# IB, interactivabrokers
+# DOMAIN, download.ibkr.com.cn
+AND, ((GEOIP,US),(DOMAIN,download.ibkr.com.cn))
+DOMAIN, download2.interactivebrokers.com
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,ibkr.com.cn))
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,interactivebrokers.com))
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,clientam.com))
+AND, ((GEOIP,US),(DOMAIN-SUFFIX,ibkr.com))

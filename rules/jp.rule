@@ -1,0 +1,5 @@
+# akamaized.net
+AND, ((GEOIP,JP),(DOMAIN-SUFFIX,akamaized.net))
+
+# AWS
+AND, ((GEOIP,JP),(DOMAIN-KEYWORD,amazon))

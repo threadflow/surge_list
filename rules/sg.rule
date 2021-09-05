@@ -1,0 +1,10 @@
+# AWS
+AND, ((GEOIP,SG),(DOMAIN-KEYWORD,amazon))
+
+
+# github
+AND, ((GEOIP,SG),(DOMAIN-SUFFIX,github.com))
+AND, ((GEOIP,SG),(DOMAIN-SUFFIX,githubusercontent.com))
+AND, ((GEOIP,SG),(DOMAIN-SUFFIX,githubassets.com))
+
+

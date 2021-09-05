@@ -1,0 +1,2 @@
+# AWS
+AND, ((GEOIP,KR),(DOMAIN-KEYWORD,amazon))

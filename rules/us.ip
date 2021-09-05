@@ -1,0 +1,43 @@
+# akamaized.net
+IP-CIDR, 104.64.0.0/10
+
+# AWS
+IP-CIDR, 13.244.0.0/14
+IP-CIDR, 13.248.0.0/14
+IP-CIDR, 52.0.0.0/10
+IP-CIDR, 52.32.0.0/11
+IP-CIDR, 52.64.0.0/12
+
+# dropbox
+IP-CIDR, 108.160.160.0/20
+
+# facebook
+IP-CIDR, 69.63.176.0/20
+IP-CIDR, 66.220.144.0/20
+IP-CIDR, 157.240.0.0/16
+
+# github
+IP-CIDR, 185.199.108.0/22
+IP-CIDR,192.30.252.0/22
+
+# google
+IP-CIDR,172.217.0.0/16
+
+# resilio
+IP-CIDR,173.244.217.42/32   # tracker1.resilio.com
+IP-CIDR,209.95.56.60/32     # tracker2.resilio.com
+IP-CIDR,107.182.230.198/32  # relay1.resilio.com
+IP-CIDR,173.244.209.150/32  # relay2.resilio.com
+IP-CIDR,104.238.205.68/32   #  relay3.resilio.com
+
+# twitter
+IP-CIDR, 104.244.40.0/21
+IP-CIDR, 199.96.56.0/21
+IP-CIDR, 192.133.76.0/22
+IP-CIDR, 199.59.148.0/22
+IP-CIDR, 69.195.160.0/19
+IP-CIDR, 199.16.156.0/22
+IP-CIDR, 209.237.192.0/19
+IP-CIDR, 8.25.194.0/23
+IP-CIDR, 8.25.196.0/23
+

@@ -1,0 +1,23 @@
+# clubhouse
+PROCESS-NAME,Clubhouse
+DOMAIN-KEYWORD,clubhouse
+
+# telegram
+PROCESS-NAME,Telegram Desktop
+PROCESS-NAME,Telegram
+DOMAIN-KEYWORD,telegram
+
+# twitter
+PROCESS-NAME,Twitter
+USER-AGENT,Twitter*,DIRECT
+
+USER-AGENT,TextNow*
+
+PROCESS-NAME,Signal
+
+DOMAIN-KEYWORD,v2ray
+
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,sex
+DOMAIN-KEYWORD,jav
+DOMAIN-KEYWORD,t66y
