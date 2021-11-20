@@ -11,6 +11,9 @@ DOMAIN-KEYWORD,telegram
 PROCESS-NAME,Twitter
 USER-AGENT,Twitter*,DIRECT
 
+# Downie
+PROCESS-NAME,*Downie*
+
 USER-AGENT,TextNow*
 
 PROCESS-NAME,Signal
