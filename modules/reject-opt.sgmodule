@@ -1,5 +1,5 @@
 #!name=REJECT - Optional
-#!desc=REJECT Optional lists. Used for reject something temporary.
+#!desc=REJECT Optional lists.
 
 [Rule]
 DOMAIN-SET, https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/adaway.txt, REJECT-TINYGIF
