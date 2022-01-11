@@ -1,0 +1,7 @@
+#!name=Optional Reject
+#!desc=Optional REJECT lists. Used for reject something temporary.
+
+[Rule]
+DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/adaway.txt, REJECT-TINYGIF
+DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/base-filter.txt, REJECT-TINYGIF
+DOMAIN-SET,https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/chinese-filter.txt, REJECT-TINYGIF
