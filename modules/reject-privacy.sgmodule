@@ -1,0 +1,7 @@
+#!name=REJECT - Privacy 
+#!desc=REJECT Privacy lists. Used for reject something temporary.
+
+[Rule]
+DOMAIN-SET, https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/tracking-protection-filter.txt, REJECT-TINYGIF
+DOMAIN-SET, https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/annoyances-filter.txt, REJECT-TINYGIF
+DOMAIN-SET, https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/social-media-filter.txt, REJECT-TINYGIF
