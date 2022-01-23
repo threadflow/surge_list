@@ -3,4 +3,4 @@
 
 [URL Rewrite]
 ^https?:\/\/(www\.)?google\.cn https://www.google.com header
-^https?:\/\/(www\.)?google\.com\.hk https://www.google.com header
+^https?:\/\/(www\.)?google\.com(\.\w+)? https://www.google.com header
