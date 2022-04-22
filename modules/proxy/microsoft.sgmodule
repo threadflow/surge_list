@@ -3,4 +3,3 @@
 
 [Rule]
 PROCESS-NAME,Microsoft AutoUpdate,General
-PROCESS-NAME,*com.apple.WebKit*,General
