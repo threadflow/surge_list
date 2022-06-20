@@ -1,0 +1,5 @@
+#!name=MitM yanxiu.com
+#!desc=Perform MitM on yanxiu.com
+
+[MITM]
+hostname = %APPEND% -*.yanxiu.com
