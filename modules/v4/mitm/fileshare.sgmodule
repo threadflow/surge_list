@@ -1,0 +1,5 @@
+#!name=MitM - File Share Sites
+#!desc=MitM - File Share Sites .
+
+[MITM]
+hostname = %APPEND% -*.tezfiles.com -*.filestore.app 
