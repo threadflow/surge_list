@@ -1,8 +1,14 @@
 # AWS
 
 
-# github
-IP-CIDR,20.205.243.0/24
+# Github
+# https://api.github.com/meta
+IP-CIDR,20.205.243.160/32
+IP-CIDR,20.205.243.164/32
+IP-CIDR,20.205.243.166/32
+IP-CIDR,20.205.243.168/32
 
-# twitter
+# Twitter Asia Pacific Pte. Ltd
+# https://myip.ms/view/ip_owners/600937/Twitter_Asia_Pacific_Pte_Ltd.html
+# AS13414
 IP-CIDR,202.160.128.0/22
