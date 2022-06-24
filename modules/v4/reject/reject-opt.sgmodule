@@ -7,5 +7,5 @@ DOMAIN-SET, https://raw.githubusercontent.com/geekdada/surge-list/master/domain-
 DOMAIN-SET, https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/chinese-filter.txt, REJECT-TINYGIF
 DOMAIN-SET, https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/dns-filter.txt, REJECT-TINYGIF
 
-DOMAIN-SET, https://raw.githubusercontent.com/threadflow/surge_list/stuff/modules/reject/reject-tinygif.domain, REJECT-TINYGIF
-DOMAIN-SET, https://raw.githubusercontent.com/threadflow/surge_list/stuff/modules/reject/reject.domain, REJECT
+DOMAIN-SET, https://raw.githubusercontent.com/threadflow/surge_list/stuff/modules/v4/reject/reject-tinygif.domain, REJECT-TINYGIF
+DOMAIN-SET, https://raw.githubusercontent.com/threadflow/surge_list/stuff/modules/v4/reject/reject.domain, REJECT
