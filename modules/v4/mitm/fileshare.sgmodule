@@ -2,4 +2,4 @@
 #!desc=MitM - File Share Sites .
 
 [MITM]
-hostname = %APPEND% -*.tezfiles.com -*.filestore.app 
+hostname = %APPEND% *tezfiles.com:0 *filestore.app:0
