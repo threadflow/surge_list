@@ -1,5 +1,5 @@
-#!name=rewrite
-#!desc=rewrite module.
+#!name=REWRITE
+#!desc=REWRITE module.
 
 [URL Rewrite]
 ^https?:\/\/(www\.)?google\.cn https://www.google.com header
