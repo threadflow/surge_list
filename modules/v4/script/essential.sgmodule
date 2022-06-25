@@ -4,4 +4,4 @@
 [Script]
 # 010 Editor
 # http-response ^http://www\.sweetscape\.com/cgibin/010editor_check_license_9b\.php requires-body=1,max-size=2048,script-path=https://raw.githubusercontent.com/threadflow/surge_list/stuff/modules/v4/script/010editor.sweetscape.com.js,script-update-interval=86400
-010 Editor License Check = type=http-response,pattern=^http://www.sweetscape.com/cgibin/010editor_check_license_9b.php,requires-body=1,max-size=1024,script-path=99FAA995.js,script-update-interval=86400
+010 Editor License Check = type=http-response,pattern=^http://www.sweetscape.com/cgibin/010editor_check_license_9b.php,requires-body=1,max-size=1024,script-path=https://raw.githubusercontent.com/threadflow/surge_list/stuff/modules/v4/script/010editor.sweetscape.com.js,script-update-interval=86400
