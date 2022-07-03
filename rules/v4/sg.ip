@@ -12,3 +12,8 @@ IP-CIDR,20.205.243.168/32
 # https://myip.ms/view/ip_owners/600937/Twitter_Asia_Pacific_Pte_Ltd.html
 # AS13414
 IP-CIDR,202.160.128.0/22
+
+# Apple Inc.
+# https://ipinfo.io/AS6185/17.253.118.0/24
+# AS6185
+17.253.118.0/24
