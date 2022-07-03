@@ -3,6 +3,7 @@ AND, ((GEOIP,US),(DOMAIN-SUFFIX,akamaized.net))
 
 # AWS
 AND, ((GEOIP,US),(DOMAIN-KEYWORD,amazon))
+AND, ((GEOIP,US),(IP-ASN,AS16509))
 
 # bintray
 AND, ((GEOIP,US),(DOMAIN-SUFFIX,bintray.com))
