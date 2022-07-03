@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,clubhouse
 PROCESS-NAME,Telegram Desktop
 PROCESS-NAME,Telegram
 DOMAIN-KEYWORD,telegram
+IP-ASN,AS62041
 
 # twitter
 PROCESS-NAME,Twitter
