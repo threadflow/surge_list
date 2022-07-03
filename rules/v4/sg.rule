@@ -1,5 +1,5 @@
 # AWS
-AND, ((GEOIP,SG),(OR,((IP-ASN,AS14618), (IP-ASN,AS16509))))
+AND, ((GEOIP,SG),(OR,((DOMAIN-KEYWORD,amazon), (IP-ASN,AS14618), (IP-ASN,AS16509))))
 
 
 # github

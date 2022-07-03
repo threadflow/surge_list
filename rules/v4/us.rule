@@ -2,7 +2,7 @@
 AND, ((GEOIP,US),(DOMAIN-SUFFIX,akamaized.net))
 
 # AWS
-AND, ((GEOIP,US),(OR,((IP-ASN,AS14618), (IP-ASN,AS16509))))
+AND, ((GEOIP,US),(OR,((DOMAIN-KEYWORD,amazon), (IP-ASN,AS14618), (IP-ASN,AS16509))))
 
 
 # bintray
