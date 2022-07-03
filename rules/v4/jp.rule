@@ -2,4 +2,4 @@
 AND, ((GEOIP,JP),(DOMAIN-SUFFIX,akamaized.net))
 
 # AWS
-AND, ((GEOIP,JP),(DOMAIN-KEYWORD,amazon))
+AND, ((GEOIP,JP),(IP-ASN,AS16509))

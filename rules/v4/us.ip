@@ -1,13 +1,6 @@
 # akamaized.net
 IP-CIDR, 104.64.0.0/10
 
-# AWS
-IP-CIDR, 13.244.0.0/14
-IP-CIDR, 13.248.0.0/14
-IP-CIDR, 52.0.0.0/10
-IP-CIDR, 52.32.0.0/11
-IP-CIDR, 52.64.0.0/12
-
 # dropbox
 IP-CIDR, 108.160.160.0/20
 

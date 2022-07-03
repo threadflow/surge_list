@@ -1,5 +1,6 @@
 # AWS
-AND, ((GEOIP,SG),(DOMAIN-KEYWORD,amazon))
+AND, ((GEOIP,SG),(IP-ASN,AS14618))
+AND, ((GEOIP,SG),(IP-ASN,AS16509))
 
 
 # github
