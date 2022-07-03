@@ -8,3 +8,5 @@ AND, ((GEOIP,SG),(DOMAIN-SUFFIX,githubusercontent.com))
 AND, ((GEOIP,SG),(DOMAIN-SUFFIX,githubassets.com))
 
 
+# apple
+AND,((GEOIP,SG),(DOMAIN-SUFFIX,apple.com))

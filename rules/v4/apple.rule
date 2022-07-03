@@ -1,3 +1,7 @@
 USER-AGENT,AppStore*
 USER-AGENT,com.apple.appstored*
 USER-AGENT,TestFlight*
+
+AND,((NOT,((GEOIP,SG))),(DOMAIN-SUFFIX,apple.com))
+
+
