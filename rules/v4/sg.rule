@@ -10,3 +10,7 @@ AND, ((GEOIP,SG),(DOMAIN-SUFFIX,githubassets.com))
 
 # apple
 AND,((GEOIP,SG),(DOMAIN-SUFFIX,apple.com))
+
+# DigitalOcean, LLC - digitalocean.com
+# https://ipinfo.io/AS14061
+AND, ((GEOIP,SG),(IP-ASN,AS14061))
